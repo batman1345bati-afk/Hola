@@ -1,0 +1,12 @@
+{
+  "geode": "1.9.0",
+  "version": "1.0.0",
+  "id": "tu.nombre.nexus_helper",
+  "name": "Nexus Helper Pro",
+  "developer": "TuNombre",
+  "description": "Asistencia de clics y lazo de corrección para GD 2.2.144",
+  "gd": {
+    "android": "2.2.144"
+  },
+  "dependencies": []
+}
